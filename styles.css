@@ -19,7 +19,7 @@ h1,h2,h3{
 .main a{
 	text-decoration: none;
 }  
-
+/* 
 #second{
 	background-color: rgb(255,255,255);
 	padding: 20px;
@@ -28,5 +28,15 @@ h1,h2,h3{
 	width: 50%;
 	margin-left:25%;
 }
+ */
+.player_one,.player_two{
+	background-color: rgb(255,255,255);
+	padding: 20px;
+	border-radius: 10px;
+	border: 1px solid black;
+	width: 50%;
+	margin-left:25%;
+}
+
 
 
