@@ -20,12 +20,13 @@ h1,h2,h3{
 	text-decoration: none;
 }  
 
-
-
-.player_one,.player_two{
+#second{
 	background-color: rgb(255,255,255);
 	padding: 20px;
 	border-radius: 10px;
 	border: 1px solid black;
-	width: 50%
+	width: 50%;
+	margin-left:25%;
 }
+
+
